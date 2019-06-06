@@ -1,0 +1,66 @@
+
+{
+    "song_array":[
+       {
+          "song_title":"Cross Me",
+          "album": "No. 6 Collaborations Project", 
+          "artist":"Ed Sheeran",
+          "image":"https://i.imgur.com/0IehQ2o.jpg?1"
+       },
+       {
+          "song_title":"Never Really Over",
+          "album": "Never Really Over",
+          "artist":"Katy Perry",
+          "image":"https://i.imgur.com/Hz9Qima.jpg"
+       },
+       {
+          "song_title":"Rescue Me",
+          "album": "Rescue Me",
+          "artist":"One Republic",
+          "image":"https://i.imgur.com/1rSgvxh.jpg"
+       },
+       {
+          "song_title":"Do You Mean",
+          "album": "World War Joy..Do You Mean",
+          "artist":"The Chainsmokers with Ty Dolla $ign & bulow",
+          "image":"https://i.imgur.com/WVh762T.jpg"
+       },
+      
+       {
+          "song_title":"If I can't have you",
+          "album": "If I can't have you",
+          "artist":"Shawn Mendes",
+          "image":"https://i.imgur.com/Pbc5Pn4.png"
+       },
+       {
+          "song_title":"Love Thru The Computer",
+          "album": "Love Thru The Computer",
+          "artist":"Gucci Mane feat. Justin Bieber",
+          "image":"https://i.imgur.com/yameJwv.jpg"
+       },
+       {
+          "song_title":"Not Ok",
+          "album": "Not Ok",
+          "artist":"Kygo, Chelsea Cutler",
+          "image":"https://i.imgur.com/Jpknu7m.jpg"
+       },
+       {
+          "song_title":"Falling like the Stars",
+          "album": "Falling like the Stars",
+          "artist":"James Arthur",
+          "image":"https://i.imgur.com/1rSgvxh.jpg"
+       },
+       {
+         "song_title":"I Don't Care",
+         "album": "I Don't Care",
+         "artist":"Ed Sheeran with Justin Bieber",
+         "image":"https://i.imgur.com/MtcWlb8.png"
+      },
+       {
+          "song_title":"Mother's Daughter",
+          "album": "She is Coming",
+          "artist":"Miley Cyrus",
+          "image":"https://i.imgur.com/TZWZF89.jpg"
+       }
+    ]
+ }

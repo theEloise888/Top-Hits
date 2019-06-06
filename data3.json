@@ -1,0 +1,18 @@
+
+{
+    "song_array":[
+       {
+          "song_title":"Thank U, Next",
+          "album": "Thank U, Next", 
+          "artist":"Ariana Grande",
+          "image":"https://i.imgur.com/0N8BZGf.png"
+       },
+       {
+          "song_title":"Sixteen",
+          "album": "Sixteen",
+          "artist":"Ellie Goulding",
+          "image":"https://i.imgur.com/1XCHeJy.png"
+       }
+       
+    ]
+ }
